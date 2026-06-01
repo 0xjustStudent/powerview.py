@@ -1,6 +1,6 @@
 dnspython
 future
-gnureadline
+pyreadline3
 validators
 dsinternals
 chardet>=3.0.2,<6
